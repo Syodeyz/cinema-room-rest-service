@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Starting runnables" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Catch all exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Determine a block for handling exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Try-catch statements" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Add annotations" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Add annotations/build/classes/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Add annotations/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Add annotations/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Add annotations/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Add annotations/build/test-results" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Add annotations/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Receive and return ID" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Receive and return ID/build/classes/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Receive and return ID/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Receive and return ID/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Receive and return ID/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Receive and return ID/build/test-results" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Receive and return ID/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Retrieving specific task" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Retrieving specific task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Retrieving specific task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Retrieving specific task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Retrieving specific task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Retrieving specific task/build/test-results" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Retrieving specific task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Return big JSON" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Three endpoints" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Three endpoints/build/classes/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Three endpoints/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Three endpoints/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Three endpoints/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Three endpoints/build/test-results" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Three endpoints/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Two endpoints" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/BadRequestException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/UncheckedException" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Apply function to all elements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Production of all numbers in the range" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Return query parameter" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Return query parameter/build/classes/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Return query parameter/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Return query parameter/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Return query parameter/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Return query parameter/build/test-results" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Return query parameter/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Storing user names" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Storing user names/build/classes/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Storing user names/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Storing user names/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Storing user names/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Storing user names/build/test-results" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Storing user names/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Web calculator" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Web calculator/build/classes/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Web calculator/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Web calculator/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Web calculator/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Web calculator/build/test-results" />
+            <option value="$PROJECT_DIR$/Topics/Posting and deleting data via REST/Web calculator/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/A subset of sorted set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Elements of a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Removing elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Spell checker" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The most suitable set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The size of a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Counting threads" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Is thread daemon" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Thread name" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
